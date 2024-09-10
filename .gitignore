@@ -1,0 +1,25 @@
+# Archivos de entorno de desarrollo
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos generados por compilación
+bin/
+obj/
+out/
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Archivos de publicación
+*.Publish.xml
+*.Pubxml
+*.Pubxml.user
+
+# Configuraciones específicas de IDE
+*.vs/
